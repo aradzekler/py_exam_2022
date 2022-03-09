@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHWABqntddneuZJYhToynbFu3xoCsG16TaX8OEcISucrHn35XXRHwGvFfvhYXYtQ57PrPA3pVvhCePOoHaoSUQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\test_pipelines\\Exam1\\SimpleAPI\\SimpleAPI\\SimpleAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 3.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 3.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 3.1.10)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 3.1.22)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
